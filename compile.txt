@@ -1,1 +1,0 @@
-gcc main.m QimenGenerator.m -o Qimen -I c:\GNUstep\GNUstep\System\Library\Headers\ -L c:\GNUstep\GNUstep\System\Library\Libraries\ -lobjc -lgnustep-base -fconstant-string-class=NSConstantString
