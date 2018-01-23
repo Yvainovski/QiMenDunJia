@@ -3,7 +3,7 @@
 
 Qimen Dunjia (simplified Chinese: 奇门遁甲; traditional Chinese: 奇門遁甲) is an ancient form of divination from China, which is still in use in China, Taiwan, Singapore and the Chinese diaspora in Southeast Asia. Qimen Dunjia may be applied to business, crime-solving, marriages and matchmaking, medical divination, Feng Shui, military affairs, finding missing people, travel, personal fortune divination etc.
 
-This project is an efficient algorithm to correctly complete divination setup, based on the ancient calender. This algorithm can be integreted easily with GUIs.
+This project is an efficient algorithm to correctly complete divination setup, based on the ancient calender. This algorithm can be integreted easily with GUIs, and can also be used as a standalong command-line program. 
 
 GUI that we are currently using:
 
